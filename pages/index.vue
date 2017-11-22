@@ -6,7 +6,7 @@
         vue-nuxt
       </h1>
       <h2 class="subtitle">
-        Nuxt.js project
+        Nuxt.js project by Ivan Lim
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
